@@ -14,6 +14,6 @@ MOVIE_DB_API_KEY="Your Api Key"
 
 ## Features
 *   Fetch data from the Internet with theMovieDB API.
-*   Use adapters and custom list layouts to populate list views to present the user with a grid arrangement of movie posters upon launch.
+*   Use Recyclerview to present the user with a grid arrangement of movie posters upon launch.
 *   Allow the user to change sort order by most popular or by highest-rated
 *   Allow the user to tap on a movie poster and transition to a details screen with additional information such as original title, movie poster image thumbnail, A plot synopsis, user rating, release date
